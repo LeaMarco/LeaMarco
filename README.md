@@ -7,7 +7,7 @@
 
 - 📫 How to reach me: **leandromarcom@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1AWxcA_aDlJWpfUHIkY-Qf2aasw0v0Eru/view?usp=sharing" target="blank">My resume</a>
+- 📄 Know about my experiences: <a href="https://drive.google.com/file/d/1AWxcA_aDlJWpfUHIkY-Qf2aasw0v0Eru/view?usp=sharing" target="blank">My resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
