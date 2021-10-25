@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Leandro Marcó</h1>
 <h3 align="center">A passionate fullstack developer from Argentina</h3>
 
-- 🔭 I’m currently working on **beers e-comerce**
+- 🔭 I’m currently working on **WISBOO**
 
-- 🌱 I’m currently learning **Typescript and prisma.**
+- 🌱 I’m currently learning **Angular and Ruby on rails**
 
 - 📫 How to reach me: **leandromarcom@gmail.com**
 
