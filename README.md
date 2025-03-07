@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Leandro Marcó</h1>
 <h3 align="center">A passionate fullstack developer from Argentina</h3>
 
-- 🔭 I’m currently working on **WISBOO**
-
-- 🌱 I’m currently learning **Angular and Ruby on rails**
+- 🔭 I’m currently working on **EagerWorks**
 
 - 📫 How to reach me: **leandromarcom@gmail.com**
 
-- 📄 Know about my experiences: <a href="https://drive.google.com/file/d/1AWxcA_aDlJWpfUHIkY-Qf2aasw0v0Eru/view?usp=sharing" target="blank">My resume</a>
+- 📄 Know about my experiences: <a href="https://drive.google.com/file/d/12GTZ2G6x4GW_tXcfaWJFXdy64CDfGBZv/view?usp=drive_link" target="blank">My resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
